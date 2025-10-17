@@ -8,7 +8,7 @@ using Lab3.DTOs;
 using Lab3.Validators;
 
 using System.Data.Common;
-using Microsoft.Data.Sqlite; // add if missing
+using Microsoft.Data.Sqlite; 
 
 var builder = WebApplication.CreateBuilder(args);
 
