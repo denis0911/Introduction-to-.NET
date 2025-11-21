@@ -1,0 +1,61 @@
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\appsettings.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Order Management API.staticwebassets.endpoints.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Order Management API.exe
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Order Management API.deps.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Order Management API.runtimeconfig.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Order Management API.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Order Management API.pdb
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Assembly.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\AssemblyAttribute.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Moq.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Serilog.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\xunit.assert.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\xunit.core.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.csproj.AssemblyReference.cache
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.AssemblyInfoInputs.cache
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.AssemblyInfo.cs
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.csproj.CoreCompileInputs.cache
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.sourcelink.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\scopedcss\bundle\Order Management API.styles.css
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Ma.64B493BE.Up2Date
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\refint\Order Management API.dll
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.pdb
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\Order Management API.genruntimeconfig.cache
+C:\Users\Denis\RiderProjects\OrderManagementAPI\Order Management API\obj\Debug\net9.0\ref\Order Management API.dll
